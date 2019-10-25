@@ -165,6 +165,7 @@ export default {
             bus.$emit('collapse-content', msg);
         });
     }
+    
 };
 </script>
 
